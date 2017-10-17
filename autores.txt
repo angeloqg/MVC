@@ -1,9 +1,0 @@
-a.greenhalgh = Angelo Quintarelli Greenhalgh <ITSystemBrazil@elsevier.com>
-t.souza = Thallys Souza <ITSystemBrazil@elsevier.com>
-=======
-j.donascimento = Julio Nascimento <ITSystemBrazil@elsevier.com>
-a.greenhalgh = Angelo Quintarelli Greenhalgh <ITSystemBrazil@elsevier.com>
-t.souza = Thallys Souza <ITSystemBrazil@elsevier.com>
-<ITSystemBrazil@elsevier.com>
-
-casa e festa
